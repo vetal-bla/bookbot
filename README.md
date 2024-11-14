@@ -1,2 +1,5 @@
 # bookbot
-learn boot.dev
+
+Learn boot.dev
+
+BookBot is my first project!
